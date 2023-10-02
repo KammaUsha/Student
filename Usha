@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>BussyLife</title>
+ </head>
+ <body>
+  <form style="width:45%;height:100px";>
+ <fieldset style="width:45%;height:600px;border-color:black";>
+ <table style="Width:50%;">
+ <tr>
+ <td>
+ <input required placeholder="Logo" style="width:40px;height:20px;font-size:15px;float:center;"></td>
+ </tr>
+ <tr>
+ <td>
+ </td>
+ </tr>
+ <tr>
+ <td>
+<input type="text" placeholder="Site Title" style="width:200px;height:35px;font-size:15px;float:right;margin-left:30%;margin-top:1px;">
+</td>
+</tr>
+<br>
+<tr>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<hr>
+<center><center><center><br><br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp HeaderImage </center></center></center><br></td>
+</tr>
+<tr>
+<td>
+<hr style="width:280px;">
+</hr>
+</td>
+<tr>
+<td>
+<div>
+<section style=" width:55%;height:40%;float:left;">
+ <img style="width:160%;height:100%;border:11px solid #000000;margin:1px"src="https:\\wallpapercave.com\wp\wp2003541.jpg"></img>
+ </section>
+ </div>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <section style="width:56%;height:35%;float:bottom">
+ <img style="width:178%;height:100%;"src="https:\\encrypted-tbn0.gstatic.com\images?q=tbn:ANd9GcShASh_5wJ0nOHAJLGuaaZQbXTdJOC_DsMlAQ&usqp=CAU">
+ </section>
+ </td>
+ </tr>
+ </body>
+</html>
